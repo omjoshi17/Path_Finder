@@ -45,6 +45,4 @@ Contributions are always welcome :-)
 
 See also the list of [contributors](https://github.com/wajeshubham/path-finder/contributors) who participated in this project.
 
-# 🪪 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/wajeshubham/path-finder/blob/main/LICENSE.md) file for details
