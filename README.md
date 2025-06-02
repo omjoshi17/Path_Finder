@@ -1,16 +1,16 @@
-#Pathify
+# Pathify
 
 An interactive visualization of Dijkstra's, BFS, and DFS path finding algorithms
 
-# 🎬 Getting Started
+# Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-# 🛠 Prerequisites
+# Prerequisites
 
 You need to have [NodeJS](https://nodejs.org/en/download/) installed
 
-# 🍽 Installing
+# Installing
 
 To get a development env running after cloning the project
 Install the dependencies
@@ -21,14 +21,14 @@ Start the development server
 
 `npm run dev`
 
-# 🏗 Built With
+# Built With
 
-- ⚡️ [Vite](https://vitejs.dev/) - The next generation of frontend tooling
+-  [Vite](https://vitejs.dev/) - The next generation of frontend tooling
 
-- ⚛️ [ReactJs](https://reactjs.org/) - Probably the best Javascript library
+-  [ReactJs](https://reactjs.org/) - Probably the best Javascript library
 
-- 💪🏼 [TypeScript](https://www.typescriptlang.org/) - If you are planning on staying in the programming field for the long run, you should learn TypeScript.
+-  [TypeScript](https://www.typescriptlang.org/) - If you are planning on staying in the programming field for the long run, you should learn TypeScript.
 
-- 💨 [TailwindCSS](https://tailwindcss.com/) - Bootstrap killer.
+-  [TailwindCSS](https://tailwindcss.com/) - Bootstrap killer.
 
 
