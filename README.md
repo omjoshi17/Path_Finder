@@ -23,12 +23,12 @@ Start the development server
 
 # Built With
 
--  [Vite](https://vitejs.dev/) - The next generation of frontend tooling
+-  [Vite](https://vitejs.dev/)
 
--  [ReactJs](https://reactjs.org/) - Probably the best Javascript library
+-  [ReactJs](https://reactjs.org/)
+  
+-  [TypeScript](https://www.typescriptlang.org/) 
 
--  [TypeScript](https://www.typescriptlang.org/) - If you are planning on staying in the programming field for the long run, you should learn TypeScript.
-
--  [TailwindCSS](https://tailwindcss.com/) - Bootstrap killer.
+-  [TailwindCSS](https://tailwindcss.com/) 
 
 
