@@ -1,8 +1,4 @@
-# 🗺 Path finding visualizer
-
-###### Watch on youtube
-
-[![Watch the video](https://wajeshubham-portfolio.s3.ap-south-1.amazonaws.com/Path+finding+visualizer.png)](https://youtu.be/IL6I25CXQuw)
+#Pathify
 
 An interactive visualization of Dijkstra's, BFS, and DFS path finding algorithms
 
@@ -33,16 +29,6 @@ Start the development server
 
 - 💪🏼 [TypeScript](https://www.typescriptlang.org/) - If you are planning on staying in the programming field for the long run, you should learn TypeScript.
 
-- 💨 [TailwindCSS](https://tailwindcss.com/) - Bootstrap killer
-
-# 🙌🏼 Contributing
-
-Contributions are always welcome :-)
-
-# 👨🏻‍💻 Authors
-
-- Shubham Waje - [wajeshubham](https://github.com/wajeshubham)
-
-See also the list of [contributors](https://github.com/wajeshubham/path-finder/contributors) who participated in this project.
+- 💨 [TailwindCSS](https://tailwindcss.com/) - Bootstrap killer.
 
 
